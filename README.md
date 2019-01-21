@@ -1,5 +1,5 @@
 # SDonatori
-aplicatie donatori sange
+Aplicatie donatori sange.
 Dupa logarea in aplicatie, poti cauta un donator in functie de grupa de sange si judetul in care se afla. Acesta poate fin contactat prin email sau nr de telefon.
 
 ![imag1](https://github.com/vickyrusu/SDonatori/blob/master/screenshots/01_sign_up_page.png)
